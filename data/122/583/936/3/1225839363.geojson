@@ -1,0 +1,75 @@
+{
+  "id": 1225839363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.13667,11.56944,43.13667,11.56944",
+    "geom:latitude":11.56944,
+    "geom:longitude":43.13667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ambouli",
+    "gn:cc2":"DJ",
+    "gn:country_code":"DJ",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":222570,
+    "gn:latitude":11.56944,
+    "gn:longitude":43.13667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ambouli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Djibouti",
+    "iso:country":"DJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u0331oumbouli",
+        "Ambua",
+        "Amboua",
+        "Ambouli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632319,
+        85670473,
+        1108759755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":222570,
+        "wk:page":"Ambouli"
+    },
+    "wof:country":"DJ",
+    "wof:geomhash":"471d570a46df5af9df5e0ea2f4361670",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632319,
+            "county_id":1108759755,
+            "locality_id":1225839363,
+            "region_id":85670473
+        }
+    ],
+    "wof:id":1225839363,
+    "wof:lastmodified":1537619785,
+    "wof:name":"Ambouli",
+    "wof:parent_id":1108759755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.13667,
+    11.56944,
+    43.13667,
+    11.56944
+],
+  "geometry": {"coordinates":[43.13667,11.56944],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343279793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.83876,10.98293,42.83876,10.98293",
+    "geom:latitude":10.98293,
+    "geom:longitude":42.83876,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"`Asamo",
+    "gn:country_code":"DJ",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":224951,
+    "gn:latitude":10.98293,
+    "gn:longitude":42.83876,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"\u2018As\u00e2mo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Djibouti",
+    "iso:country":"DJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ina \u2018Assamo",
+        "\u2018As\u00e2mo",
+        "Vasama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671155,
+        421184699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":224951,
+        "wk:page":"Assamo"
+    },
+    "wof:country":"DJ",
+    "wof:geomhash":"bad3264f3dddddaecc88a448152b60e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421184699,
+            "locality_id":1343279793,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":1343279793,
+    "wof:lastmodified":1537619786,
+    "wof:name":"`Asamo",
+    "wof:parent_id":421184699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.83876,
+    10.98293,
+    42.83876,
+    10.98293
+],
+  "geometry": {"coordinates":[42.83876,10.98293],"type":"Point"}
+}

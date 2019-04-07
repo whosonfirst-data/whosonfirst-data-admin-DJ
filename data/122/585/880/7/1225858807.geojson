@@ -1,0 +1,76 @@
+{
+  "id": 1225858807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.00028,11.42389,43.00028,11.42389",
+    "geom:latitude":11.42389,
+    "geom:longitude":43.00028,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Goubetto",
+    "gn:cc2":"DJ",
+    "gn:country_code":"DJ",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":404235,
+    "gn:latitude":11.42389,
+    "gn:longitude":43.00028,
+    "gn:modification_date":"2013-05-05",
+    "gn:name":"Goub\u00e9tto",
+    "gn:population":2003,
+    "gn:timezone":"Africa/Djibouti",
+    "iso:country":"DJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Goubatto",
+        "Goub\u00e9tto"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632319,
+        85670467,
+        1108759739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":404235,
+        "wk:page":"Goubetto"
+    },
+    "wof:country":"DJ",
+    "wof:geomhash":"f6fc5e7ee62b1a20101056b2a9d6d72a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632319,
+            "county_id":1108759739,
+            "locality_id":1225858807,
+            "region_id":85670467
+        }
+    ],
+    "wof:id":1225858807,
+    "wof:lastmodified":1537619786,
+    "wof:name":"Goubetto",
+    "wof:parent_id":1108759739,
+    "wof:placetype":"locality",
+    "wof:population":2003,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-dj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.00028,
+    11.42389,
+    43.00028,
+    11.42389
+],
+  "geometry": {"coordinates":[43.00028,11.42389],"type":"Point"}
+}

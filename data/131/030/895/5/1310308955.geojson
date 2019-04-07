@@ -1,0 +1,72 @@
+{
+  "id": 1310308955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.85333,11.2975,42.85333,11.2975",
+    "geom:latitude":11.2975,
+    "geom:longitude":42.85333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Digri",
+    "gn:cc2":"DJ",
+    "gn:country_code":"DJ",
+    "gn:dem":650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":409763,
+    "gn:latitude":11.2975,
+    "gn:longitude":42.85333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u1e0eigri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Djibouti",
+    "iso:country":"DJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e0eikri",
+        "\u1e0eigri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632319,
+        85670467,
+        1108759739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":409763
+    },
+    "wof:country":"DJ",
+    "wof:geomhash":"ede4f1e2026838424f21993150d9027e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632319,
+            "county_id":1108759739,
+            "locality_id":1310308955,
+            "region_id":85670467
+        }
+    ],
+    "wof:id":1310308955,
+    "wof:lastmodified":1537619786,
+    "wof:name":"Digri",
+    "wof:parent_id":1108759739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.85333,
+    11.2975,
+    42.85333,
+    11.2975
+],
+  "geometry": {"coordinates":[42.85333,11.2975],"type":"Point"}
+}

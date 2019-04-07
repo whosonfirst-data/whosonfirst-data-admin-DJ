@@ -1,0 +1,72 @@
+{
+  "id": 1326929759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.43333,12.3,42.43333,12.3",
+    "geom:latitude":12.3,
+    "geom:longitude":42.43333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Moudo",
+    "gn:country_code":"DJ",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":221629,
+    "gn:latitude":12.3,
+    "gn:longitude":42.43333,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Moudo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Djibouti",
+    "iso:country":"DJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mouddo",
+        "Moudo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632319,
+        85670491,
+        1108759765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":221629,
+        "wk:page":"Mouddo"
+    },
+    "wof:country":"DJ",
+    "wof:geomhash":"cdd8842ebcfaaae75ed64de22efce34e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632319,
+            "county_id":1108759765,
+            "locality_id":1326929759,
+            "region_id":85670491
+        }
+    ],
+    "wof:id":1326929759,
+    "wof:lastmodified":1537619785,
+    "wof:name":"Moudo",
+    "wof:parent_id":1108759765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.43333,
+    12.3,
+    42.43333,
+    12.3
+],
+  "geometry": {"coordinates":[42.43333,12.3],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1309798571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.5,11.16667,42.5,11.16667",
+    "geom:latitude":11.16667,
+    "geom:longitude":42.5,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mouloud",
+    "gn:country_code":"DJ",
+    "gn:dem":572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8692932,
+    "gn:latitude":11.16667,
+    "gn:longitude":42.5,
+    "gn:modification_date":"2014-01-24",
+    "gn:name":"Mouloud",
+    "gn:population":0,
+    "gn:timezone":"Africa/Djibouti",
+    "iso:country":"DJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632319,
+        85670483,
+        1108759751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8692932,
+        "wk:page":"Mouloud"
+    },
+    "wof:country":"DJ",
+    "wof:geomhash":"2e8a5bd03e0a248bdc34a93a292f88a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632319,
+            "county_id":1108759751,
+            "locality_id":1309798571,
+            "region_id":85670483
+        }
+    ],
+    "wof:id":1309798571,
+    "wof:lastmodified":1537504196,
+    "wof:name":"Mouloud",
+    "wof:parent_id":1108759751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.5,
+    11.16667,
+    42.5,
+    11.16667
+],
+  "geometry": {"coordinates":[42.5,11.16667],"type":"Point"}
+}

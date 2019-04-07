@@ -1,0 +1,68 @@
+{
+  "id": 1243171293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.65194,11.77028,42.65194,11.77028",
+    "geom:latitude":11.77028,
+    "geom:longitude":42.65194,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Airolaf",
+    "gn:country_code":"DJ",
+    "gn:dem":1462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":225398,
+    "gn:latitude":11.77028,
+    "gn:longitude":42.65194,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Airolaf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Djibouti",
+    "iso:country":"DJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632319,
+        85670491,
+        1108759767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":225398,
+        "wk:page":"Airolaf"
+    },
+    "wof:country":"DJ",
+    "wof:geomhash":"01b1d6dc56e75d1ef4cb605fcbae1953",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632319,
+            "county_id":1108759767,
+            "locality_id":1243171293,
+            "region_id":85670491
+        }
+    ],
+    "wof:id":1243171293,
+    "wof:lastmodified":1537504196,
+    "wof:name":"Airolaf",
+    "wof:parent_id":1108759767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.65194,
+    11.77028,
+    42.65194,
+    11.77028
+],
+  "geometry": {"coordinates":[42.65194,11.77028],"type":"Point"}
+}

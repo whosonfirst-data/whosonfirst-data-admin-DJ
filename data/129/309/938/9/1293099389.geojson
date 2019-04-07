@@ -1,0 +1,71 @@
+{
+  "id": 1293099389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.18898,12.36216,43.18898,12.36216",
+    "geom:latitude":12.36216,
+    "geom:longitude":43.18898,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sedorre",
+    "gn:country_code":"DJ",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":220931,
+    "gn:latitude":12.36216,
+    "gn:longitude":43.18898,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"S\u00eadorre",
+    "gn:population":0,
+    "gn:timezone":"Africa/Djibouti",
+    "iso:country":"DJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00eadorre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632319,
+        85670485,
+        1108759759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":220931,
+        "wk:page":"Sedorre"
+    },
+    "wof:country":"DJ",
+    "wof:geomhash":"6e7375d3e8f3947044d9c47d675aa4fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632319,
+            "county_id":1108759759,
+            "locality_id":1293099389,
+            "region_id":85670485
+        }
+    ],
+    "wof:id":1293099389,
+    "wof:lastmodified":1537619785,
+    "wof:name":"Sedorre",
+    "wof:parent_id":1108759759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.18898,
+    12.36216,
+    43.18898,
+    12.36216
+],
+  "geometry": {"coordinates":[43.18898,12.36216],"type":"Point"}
+}

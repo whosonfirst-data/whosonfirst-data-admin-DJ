@@ -1,0 +1,68 @@
+{
+  "id": 1210013399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.10666,11.56194,43.10666,11.56194",
+    "geom:latitude":11.56194,
+    "geom:longitude":43.10666,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Balbala",
+    "gn:country_code":"DJ",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7648070,
+    "gn:latitude":11.56194,
+    "gn:longitude":43.10666,
+    "gn:modification_date":"2011-01-28",
+    "gn:name":"Balbala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Djibouti",
+    "iso:country":"DJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632319,
+        85670473,
+        1108759755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7648070,
+        "wk:page":"Balbala"
+    },
+    "wof:country":"DJ",
+    "wof:geomhash":"948e4302071b04c19baaf62266b8fb6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632319,
+            "county_id":1108759755,
+            "locality_id":1210013399,
+            "region_id":85670473
+        }
+    ],
+    "wof:id":1210013399,
+    "wof:lastmodified":1537504196,
+    "wof:name":"Balbala",
+    "wof:parent_id":1108759755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.10666,
+    11.56194,
+    43.10666,
+    11.56194
+],
+  "geometry": {"coordinates":[43.10666,11.56194],"type":"Point"}
+}

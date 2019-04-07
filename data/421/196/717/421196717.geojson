@@ -1,0 +1,117 @@
+{
+  "id": 421196717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.89556,12.42167,42.89556,12.42167",
+    "geom:latitude":12.42167,
+    "geom:longitude":42.89556,
+    "iso:country":"DJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0639\u0644\u0627\u064a\u0644\u064a \u062f\u0627\u062f\u0627"
+    ],
+    "name:arm_x_preferred":[
+        "\u0531\u056c\u0561\u056b\u056c\u056b \u0534\u0561\u0564\u0561"
+    ],
+    "name:dut_x_preferred":[
+        "Alaili Dadda`"
+    ],
+    "name:eng_x_preferred":[
+        "Alaili Dadda`"
+    ],
+    "name:fre_x_preferred":[
+        "Alaili Dadda"
+    ],
+    "name:ita_x_preferred":[
+        "Alaili Dadda"
+    ],
+    "name:per_x_preferred":[
+        "\u0639\u0644\u0627\u06cc\u0644\u06cc \u062f\u0627\u062f\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Alaili Dadda"
+    ],
+    "name:swe_x_preferred":[
+        "Alaili Dadda"
+    ],
+    "name:tur_x_preferred":[
+        "Alaili Dadda"
+    ],
+    "name:unk_x_variant":[
+        "Alayli \u1e0ea\u1e0f\u1e0fa\u2018"
+    ],
+    "name:urd_x_preferred":[
+        "\u0639\u0644\u0627\u06cc\u0644\u06cc \u062f\u0627\u062f\u0627"
+    ],
+    "qs:gn_country":"DJ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":400462,
+    "qs:gn_pop":1456,
+    "qs:name":"Ala\u00efli \u1e0ea\u1e0f\u1e0fa\u2019",
+    "qs:name_adm0":"\u062c\u064a\u0628\u0648\u062a\u064a",
+    "qs:name_adm1":"Obock",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1297250,
+    "qs:woe_adm0":23424797,
+    "qs:woe_id":1310923,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632319,
+        85670485,
+        1108759757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":400462,
+        "gp:id":1310923,
+        "qs:id":1297250,
+        "wd:id":"Q1708992",
+        "wk:page":"Alaili Dadda`"
+    },
+    "wof:country":"DJ",
+    "wof:created":1459009890,
+    "wof:geomhash":"33afb9b7a3d81b7b307eaf11b63572bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632319,
+            "county_id":1108759757,
+            "locality_id":421196717,
+            "region_id":85670485
+        }
+    ],
+    "wof:id":421196717,
+    "wof:lastmodified":1513955692,
+    "wof:name":"Ala\u00efli \u1e0ea\u1e0f\u1e0fa\u2019",
+    "wof:parent_id":1108759757,
+    "wof:placetype":"locality",
+    "wof:population":1456,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-dj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.89556,
+    12.42167,
+    42.89556,
+    12.42167
+],
+  "geometry": {"coordinates":[42.89556,12.42167],"type":"Point"}
+}

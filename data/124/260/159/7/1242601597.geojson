@@ -1,0 +1,73 @@
+{
+  "id": 1242601597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.02611,11.97306,43.02611,11.97306",
+    "geom:latitude":11.97306,
+    "geom:longitude":43.02611,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Medeho",
+    "gn:cc2":"DJ",
+    "gn:country_code":"DJ",
+    "gn:dem":627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":221708,
+    "gn:latitude":11.97306,
+    "gn:longitude":43.02611,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"M\u00e9d\u00e9ho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Djibouti",
+    "iso:country":"DJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00e9\u00e9 D\u00f4ho",
+        "M\u00e9d\u00e9ho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632319,
+        85670485,
+        1108759759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":221708,
+        "wk:page":"Medeho"
+    },
+    "wof:country":"DJ",
+    "wof:geomhash":"95107341a7e734b3f2bb632657963ccb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632319,
+            "county_id":1108759759,
+            "locality_id":1242601597,
+            "region_id":85670485
+        }
+    ],
+    "wof:id":1242601597,
+    "wof:lastmodified":1537619785,
+    "wof:name":"Medeho",
+    "wof:parent_id":1108759759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.02611,
+    11.97306,
+    43.02611,
+    11.97306
+],
+  "geometry": {"coordinates":[43.02611,11.97306],"type":"Point"}
+}

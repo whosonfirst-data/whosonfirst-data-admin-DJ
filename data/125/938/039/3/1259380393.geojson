@@ -1,0 +1,68 @@
+{
+  "id": 1259380393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.10639,11.51139,42.10639,11.51139",
+    "geom:latitude":11.51139,
+    "geom:longitude":42.10639,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Yoboki",
+    "gn:country_code":"DJ",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":220552,
+    "gn:latitude":11.51139,
+    "gn:longitude":42.10639,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yoboki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Djibouti",
+    "iso:country":"DJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632319,
+        85670483,
+        1108759753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":220552,
+        "wk:page":"Yoboki"
+    },
+    "wof:country":"DJ",
+    "wof:geomhash":"708eec1ed2e965a14e64990d98c84a45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632319,
+            "county_id":1108759753,
+            "locality_id":1259380393,
+            "region_id":85670483
+        }
+    ],
+    "wof:id":1259380393,
+    "wof:lastmodified":1537504195,
+    "wof:name":"Yoboki",
+    "wof:parent_id":1108759753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.10639000000001,
+    11.51139,
+    42.10639000000001,
+    11.51139
+],
+  "geometry": {"coordinates":[42.10639000000001,11.51139],"type":"Point"}
+}

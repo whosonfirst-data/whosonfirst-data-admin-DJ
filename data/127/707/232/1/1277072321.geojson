@@ -1,0 +1,74 @@
+{
+  "id": 1277072321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.1025,11.00361,42.1025,11.00361",
+    "geom:latitude":11.00361,
+    "geom:longitude":42.1025,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"`As `Ela",
+    "gn:country_code":"DJ",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":224906,
+    "gn:latitude":11.00361,
+    "gn:longitude":42.1025,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u2018As \u2018\u00cala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Djibouti",
+    "iso:country":"DJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ass\u2019\u00e8yla",
+        "Assa-ela",
+        "Airoli",
+        "\u2018As \u2018\u00cala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632319,
+        85670483,
+        1108759749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":224906,
+        "wk:page":"%60As_%60Ela"
+    },
+    "wof:country":"DJ",
+    "wof:geomhash":"51beee708ecff348157967c7a1de8746",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632319,
+            "county_id":1108759749,
+            "locality_id":1277072321,
+            "region_id":85670483
+        }
+    ],
+    "wof:id":1277072321,
+    "wof:lastmodified":1537619786,
+    "wof:name":"`As `Ela",
+    "wof:parent_id":1108759749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.1025,
+    11.00361,
+    42.1025,
+    11.00361
+],
+  "geometry": {"coordinates":[42.1025,11.00361],"type":"Point"}
+}

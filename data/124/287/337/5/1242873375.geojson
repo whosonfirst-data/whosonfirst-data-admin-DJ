@@ -1,0 +1,68 @@
+{
+  "id": 1242873375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.19547,12.05786,42.19547,12.05786",
+    "geom:latitude":12.05786,
+    "geom:longitude":42.19547,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Balho",
+    "gn:country_code":"DJ",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":224660,
+    "gn:latitude":12.05786,
+    "gn:longitude":42.19547,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Balho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Djibouti",
+    "iso:country":"DJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632319,
+        85670491,
+        1108759763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":224660,
+        "wk:page":"Balho"
+    },
+    "wof:country":"DJ",
+    "wof:geomhash":"d8885470439e00595153911ae102b15c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632319,
+            "county_id":1108759763,
+            "locality_id":1242873375,
+            "region_id":85670491
+        }
+    ],
+    "wof:id":1242873375,
+    "wof:lastmodified":1537504195,
+    "wof:name":"Balho",
+    "wof:parent_id":1108759763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.19547,
+    12.05786,
+    42.19547,
+    12.05786
+],
+  "geometry": {"coordinates":[42.19547,12.05786],"type":"Point"}
+}

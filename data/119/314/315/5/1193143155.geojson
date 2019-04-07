@@ -1,0 +1,71 @@
+{
+  "id": 1193143155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.97333,12.645,42.97333,12.645",
+    "geom:latitude":12.645,
+    "geom:longitude":42.97333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bissidiro",
+    "gn:country_code":"DJ",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":398991,
+    "gn:latitude":12.645,
+    "gn:longitude":42.97333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Biss\u00eediro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Djibouti",
+    "iso:country":"DJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Biss\u00eediro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632319,
+        85670485,
+        1108759757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":398991,
+        "wk:page":"Bissidiro"
+    },
+    "wof:country":"DJ",
+    "wof:geomhash":"aecb167b837251944eb022c0c181195e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632319,
+            "county_id":1108759757,
+            "locality_id":1193143155,
+            "region_id":85670485
+        }
+    ],
+    "wof:id":1193143155,
+    "wof:lastmodified":1537619786,
+    "wof:name":"Bissidiro",
+    "wof:parent_id":1108759757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.97333,
+    12.645,
+    42.97333,
+    12.645
+],
+  "geometry": {"coordinates":[42.97333,12.645],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327266787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.35556,12.28694,43.35556,12.28694",
+    "geom:latitude":12.28694,
+    "geom:longitude":43.35556,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Gaherre",
+    "gn:country_code":"DJ",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":443309,
+    "gn:latitude":12.28694,
+    "gn:longitude":43.35556,
+    "gn:modification_date":"2000-12-01",
+    "gn:name":"Gaherr\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Djibouti",
+    "iso:country":"DJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632319,
+        85670485,
+        1108759759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":443309
+    },
+    "wof:country":"DJ",
+    "wof:geomhash":"b2efc216cf68eaf61dc4de8b1cf9d0de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632319,
+            "county_id":1108759759,
+            "locality_id":1327266787,
+            "region_id":85670485
+        }
+    ],
+    "wof:id":1327266787,
+    "wof:lastmodified":1536920675,
+    "wof:name":"Gaherre",
+    "wof:parent_id":1108759759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-dj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.35556,
+    12.28694,
+    43.35556,
+    12.28694
+],
+  "geometry": {"coordinates":[43.35556,12.28694],"type":"Point"}
+}
