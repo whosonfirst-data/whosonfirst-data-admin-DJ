@@ -146,9 +146,6 @@
     "name:cym_x_variant":[
         "Djibouti"
     ],
-    "name:cze_x_preferred":[
-        "D\u017eibutsko"
-    ],
     "name:cze_x_variant":[
         "D\u017eibuti",
         "D\u017eib\u00fati"
@@ -767,7 +764,6 @@
         "\u5409\u5e03\u63d0"
     ],
     "name:zho_x_variant":[
-        "\u5409\u5e03\u63d0",
         "\u5409\u5e03\u5730"
     ],
     "name:zho_yue_x_preferred":[
@@ -924,7 +920,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1544059204,
+    "wof:lastmodified":1561777396,
     "wof:name":"Djibouti",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

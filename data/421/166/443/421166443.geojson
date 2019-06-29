@@ -17,23 +17,17 @@
     "name:ara_x_preferred":[
         "\u062a\u0627\u062c\u0648\u0631\u0629"
     ],
-    "name:arm_x_preferred":[
-        "\u0539\u0561\u057b\u0578\u0582\u0580\u0561"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0422\u0430\u0434\u0436\u0443\u0440\u0430"
     ],
     "name:cat_x_preferred":[
         "Tadjoura"
     ],
-    "name:chi_x_preferred":[
-        "\u5854\u6731\u62c9"
-    ],
     "name:dan_x_preferred":[
         "Tadjoura"
     ],
-    "name:dut_x_preferred":[
-        "Tadjourah"
+    "name:deu_x_preferred":[
+        "Tadjoura"
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03b1\u03bd\u03c4\u03b6\u03bf\u03c5\u03c1\u03ac"
@@ -53,20 +47,8 @@
     "name:fra_x_preferred":[
         "Tadjourah"
     ],
-    "name:fre_x_preferred":[
-        "Tadjourah"
-    ],
     "name:frr_x_preferred":[
         "Tadjourah"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d0\u10ef\u10e3\u10e0\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Tadjoura"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b1\u03bd\u03c4\u03b6\u03bf\u03c5\u03c1\u03ac"
     ],
     "name:hye_x_preferred":[
         "\u0539\u0561\u057b\u0578\u0582\u0580\u0561"
@@ -98,9 +80,6 @@
     "name:nob_x_preferred":[
         "Tadjoura"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0627\u062c\u0648\u0631\u0647"
-    ],
     "name:pol_x_preferred":[
         "Tad\u017cura"
     ],
@@ -108,9 +87,6 @@
         "Tadjourah"
     ],
     "name:ron_x_preferred":[
-        "Tadjourah"
-    ],
-    "name:rum_x_preferred":[
         "Tadjourah"
     ],
     "name:rus_x_preferred":[
@@ -280,7 +256,7 @@
         }
     ],
     "wof:id":421166443,
-    "wof:lastmodified":1527716105,
+    "wof:lastmodified":1561777397,
     "wof:name":"Tadjoura",
     "wof:parent_id":1108759769,
     "wof:placetype":"locality",

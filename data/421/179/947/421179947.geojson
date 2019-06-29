@@ -23,16 +23,10 @@
     "name:ceb_x_preferred":[
         "Dikhil"
     ],
-    "name:chi_x_preferred":[
-        "\u8fea\u57fa\u52d2"
-    ],
     "name:dan_x_preferred":[
         "Dikhil"
     ],
     "name:deu_x_preferred":[
-        "Dikhil"
-    ],
-    "name:dut_x_preferred":[
         "Dikhil"
     ],
     "name:ell_x_preferred":[
@@ -50,20 +44,8 @@
     "name:fra_x_preferred":[
         "Dikhil"
     ],
-    "name:fre_x_preferred":[
-        "Dikhil"
-    ],
     "name:frr_x_preferred":[
         "Dikhil"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10d8\u10d9\u10d8\u10da\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Dikhil"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03b9\u03ba\u03af\u03bb"
     ],
     "name:ind_x_preferred":[
         "Dikhil"
@@ -89,16 +71,10 @@
     "name:nld_x_preferred":[
         "Dikhil"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u062e\u06cc\u0644"
-    ],
     "name:pol_x_preferred":[
         "Dikhil"
     ],
     "name:ron_x_preferred":[
-        "Dikhil"
-    ],
-    "name:rum_x_preferred":[
         "Dikhil"
     ],
     "name:rus_x_preferred":[
@@ -262,7 +238,7 @@
         }
     ],
     "wof:id":421179947,
-    "wof:lastmodified":1527717707,
+    "wof:lastmodified":1561777398,
     "wof:name":"Dikhil",
     "wof:parent_id":1108759751,
     "wof:placetype":"locality",
