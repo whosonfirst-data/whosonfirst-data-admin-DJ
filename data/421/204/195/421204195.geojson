@@ -17,26 +17,17 @@
     "name:afr_x_preferred":[
         "Djiboeti"
     ],
-    "name:alb_x_preferred":[
-        "Xhibuti"
-    ],
     "name:amh_x_preferred":[
         "\u1305\u1261\u1272"
     ],
     "name:ara_x_preferred":[
         "\u062c\u064a\u0628\u0648\u062a\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u054b\u056b\u0562\u0578\u0582\u0569\u056b"
-    ],
     "name:ast_x_preferred":[
         "Xibuti"
     ],
     "name:aze_x_preferred":[
         "Cibuti"
-    ],
-    "name:baq_x_preferred":[
-        "Djibuti"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0414\u0436\u044b\u0431\u0443\u0446\u0456"
@@ -68,9 +59,6 @@
     "name:che_x_preferred":[
         "\u0414\u0436\u0438\u0431\u0443\u0442\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u5409\u5e03\u5730\u5e02"
-    ],
     "name:ckb_x_preferred":[
         "\u062c\u06cc\u0628\u0648\u0648\u062a\u06cc"
     ],
@@ -80,17 +68,14 @@
     "name:cym_x_preferred":[
         "Dinas Jibwti"
     ],
-    "name:cze_x_preferred":[
-        "D\u017e\u00edb\u00fat\u00ed"
+    "name:cym_x_variant":[
+        "Dinas Djibouti"
     ],
     "name:dan_x_preferred":[
         "Djibouti"
     ],
     "name:deu_x_preferred":[
         "Dschibuti"
-    ],
-    "name:dut_x_preferred":[
-        "Djibouti"
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03b6\u03b9\u03bc\u03c0\u03bf\u03c5\u03c4\u03af"
@@ -104,6 +89,9 @@
     "name:est_x_preferred":[
         "Djibouti"
     ],
+    "name:eus_x_preferred":[
+        "Djibuti"
+    ],
     "name:fas_x_preferred":[
         "\u062c\u06cc\u0628\u0648\u062a\u06cc"
     ],
@@ -113,20 +101,11 @@
     "name:fra_x_preferred":[
         "Djibouti"
     ],
-    "name:fre_x_preferred":[
-        "Djibouti"
-    ],
     "name:frr_x_preferred":[
         "Dschibuuti"
     ],
     "name:fry_x_preferred":[
         "Dzjib\u00fbty"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ef\u10d8\u10d1\u10e3\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Dschibuti"
     ],
     "name:gla_x_preferred":[
         "Djibouti"
@@ -136,9 +115,6 @@
     ],
     "name:glg_x_preferred":[
         "Xibut\u00ed"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b6\u03b9\u03bc\u03c0\u03bf\u03c5\u03c4\u03af"
     ],
     "name:guj_x_preferred":[
         "\u0a9c\u0ac0\u0aac\u0acb\u0a9f\u0ac0"
@@ -170,11 +146,11 @@
     "name:hye_x_preferred":[
         "\u054b\u056b\u0562\u0578\u0582\u0569\u056b"
     ],
-    "name:ice_x_preferred":[
-        "Dj\u00edb\u00fat\u00ed"
-    ],
     "name:ind_x_preferred":[
         "Djibouti"
+    ],
+    "name:isl_x_preferred":[
+        "Dj\u00edb\u00fat\u00ed"
     ],
     "name:ita_x_preferred":[
         "Gibuti"
@@ -221,14 +197,8 @@
     "name:ltz_x_preferred":[
         "Dschibuti"
     ],
-    "name:mac_x_preferred":[
-        "\u040f\u0438\u0431\u0443\u0442\u0438"
-    ],
     "name:mar_x_preferred":[
         "\u091c\u093f\u092c\u0942\u0924\u0940"
-    ],
-    "name:may_x_preferred":[
-        "Djibouti"
     ],
     "name:mkd_x_preferred":[
         "\u040f\u0438\u0431\u0443\u0442\u0438"
@@ -238,6 +208,9 @@
     ],
     "name:mrj_x_preferred":[
         "\u0414\u0436\u0438\u0431\u0443\u0442\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Djibouti"
     ],
     "name:nan_x_preferred":[
         "Djibouti Chh\u012b"
@@ -263,9 +236,6 @@
     "name:pan_x_preferred":[
         "\u0a1c\u0a3f\u0a2c\u0a42\u0a24\u0a40"
     ],
-    "name:per_x_preferred":[
-        "\u062c\u06cc\u0628\u0648\u062a\u06cc"
-    ],
     "name:pms_x_preferred":[
         "Djibouti"
     ],
@@ -278,7 +248,7 @@
     "name:por_x_preferred":[
         "Djibouti"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Djibouti"
     ],
     "name:rus_x_preferred":[
@@ -293,9 +263,6 @@
     "name:slk_x_preferred":[
         "D\u017eibuti"
     ],
-    "name:slo_x_preferred":[
-        "D\u017eibuti"
-    ],
     "name:slv_x_preferred":[
         "D\u017eibuti"
     ],
@@ -307,6 +274,9 @@
     ],
     "name:spa_x_preferred":[
         "Yibuti"
+    ],
+    "name:sqi_x_preferred":[
+        "Xhibuti"
     ],
     "name:srp_x_preferred":[
         "\u040f\u0438\u0431\u0443\u0442\u0438"
@@ -331,9 +301,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e34\u0e1a\u0e39\u0e15\u0e35"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f47\u0f72\u0f0b\u0f56\u0f60\u0f7c\u0f0b\u0f4a\u0f72\u0f0d"
     ],
     "name:tuk_x_preferred":[
         "Jibuti"
@@ -367,9 +334,6 @@
     ],
     "name:war_x_preferred":[
         "Syudad han Djibouti"
-    ],
-    "name:wel_x_preferred":[
-        "Dinas Djibouti"
     ],
     "name:wol_x_preferred":[
         "Jibuti"
@@ -533,7 +497,7 @@
         }
     ],
     "wof:id":421204195,
-    "wof:lastmodified":1536881211,
+    "wof:lastmodified":1561777397,
     "wof:name":"Djibouti",
     "wof:parent_id":85670473,
     "wof:placetype":"locality",
