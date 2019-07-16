@@ -47,6 +47,9 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 de Dikhil"
     ],
+    "name:ceb_x_preferred":[
+        "Dikhil"
+    ],
     "name:dan_x_preferred":[
         "Dikhil Region"
     ],
@@ -77,6 +80,9 @@
     "name:fra_x_variant":[
         "R\u00e9gion de Dikhil"
     ],
+    "name:frr_x_preferred":[
+        "Dikhil"
+    ],
     "name:guj_x_preferred":[
         "\u0aa6\u0abf\u0a96\u0abf\u0ab2 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
     ],
@@ -103,6 +109,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub514\ud06c\ud790 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub514\ud0ac \uc8fc"
     ],
     "name:lav_x_preferred":[
         "Dihilas re\u0123ions"
@@ -133,6 +142,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0414\u0438\u043a\u0438\u043b\u044c"
+    ],
+    "name:rus_x_variant":[
+        "\u0414\u0438\u0445\u0438\u043b"
     ],
     "name:sin_x_preferred":[
         "\u0da9\u0dd2\u0d9a\u0dca\u0dc4\u0dd2\u0dbd\u0dca \u0d9a\u0dbd\u0dcf\u0db4\u0dba"
@@ -295,7 +307,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1561777397,
+    "wof:lastmodified":1563309068,
     "wof:name":"Dikhil",
     "wof:parent_id":85632319,
     "wof:placetype":"region",

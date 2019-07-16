@@ -29,8 +29,14 @@
     "name:aze_x_preferred":[
         "Cibuti"
     ],
+    "name:bcl_x_preferred":[
+        "Djibouti"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0414\u0436\u044b\u0431\u0443\u0446\u0456"
+    ],
+    "name:bel_x_variant":[
+        "\u0414\u0436\u044b\u0431\u0443\u0446\u0456"
     ],
     "name:ben_x_preferred":[
         "\u099c\u09bf\u09ac\u09c1\u09a4\u09bf"
@@ -53,8 +59,14 @@
     "name:cdo_x_preferred":[
         "Djibouti Ch\u00ea"
     ],
+    "name:ceb_x_preferred":[
+        "Djibouti"
+    ],
     "name:ces_x_preferred":[
         "D\u017e\u00edb\u00fat\u00ed"
+    ],
+    "name:ces_x_variant":[
+        "D\u017eibuti"
     ],
     "name:che_x_preferred":[
         "\u0414\u0436\u0438\u0431\u0443\u0442\u0438"
@@ -116,6 +128,9 @@
     "name:glg_x_preferred":[
         "Xibut\u00ed"
     ],
+    "name:grn_x_preferred":[
+        "Jimb\u00fati"
+    ],
     "name:guj_x_preferred":[
         "\u0a9c\u0ac0\u0aac\u0acb\u0a9f\u0ac0"
     ],
@@ -131,6 +146,9 @@
     "name:heb_x_preferred":[
         "\u05d2\u05d9\u05d1\u05d5\u05d8\u05d9"
     ],
+    "name:heb_x_variant":[
+        "\u05d2'\u05d9\u05d1\u05d5\u05d8\u05d9"
+    ],
     "name:hif_x_preferred":[
         "Djibouti"
     ],
@@ -140,11 +158,17 @@
     "name:hrv_x_preferred":[
         "Djibouti"
     ],
+    "name:hsb_x_preferred":[
+        "D\u017aibuti"
+    ],
     "name:hun_x_preferred":[
         "Dzsibuti"
     ],
     "name:hye_x_preferred":[
         "\u054b\u056b\u0562\u0578\u0582\u0569\u056b"
+    ],
+    "name:ido_x_preferred":[
+        "Djibouti"
     ],
     "name:ind_x_preferred":[
         "Djibouti"
@@ -289,6 +313,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bc0\u0baa\u0bc2\u0ba4\u0bcd\u0ba4\u0bc0"
+    ],
+    "name:tam_x_variant":[
+        "\u0b9a\u0bbf\u0baa\u0bc2\u0b9f\u0bcd\u0b9f\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c1c\u0c3f\u0c2c\u0c4b\u0c1f\u0c3f"
@@ -497,7 +524,7 @@
         }
     ],
     "wof:id":421204195,
-    "wof:lastmodified":1561777397,
+    "wof:lastmodified":1563309084,
     "wof:name":"Djibouti",
     "wof:parent_id":85670473,
     "wof:placetype":"locality",
