@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u063a\u0627\u0644\u0627\u0641\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u063a\u0627\u0644\u0627\u0641\u06cc"
+    ],
     "name:ceb_x_preferred":[
         "G\u00e2l\u00e2fi"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":421196723,
-    "wof:lastmodified":1561777398,
+    "wof:lastmodified":1563309085,
     "wof:name":"Galafi",
     "wof:parent_id":1108759753,
     "wof:placetype":"locality",

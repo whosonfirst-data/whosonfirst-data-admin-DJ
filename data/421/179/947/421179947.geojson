@@ -41,6 +41,9 @@
     "name:fas_x_preferred":[
         "\u062f\u062e\u06cc\u0644"
     ],
+    "name:fin_x_preferred":[
+        "Dikhil"
+    ],
     "name:fra_x_preferred":[
         "Dikhil"
     ],
@@ -79,6 +82,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0414\u0438\u043a\u0438\u043b\u044c"
+    ],
+    "name:rus_x_variant":[
+        "\u0414\u0438\u0445\u0438\u043b"
     ],
     "name:swe_x_preferred":[
         "Dikhil"
@@ -238,7 +244,7 @@
         }
     ],
     "wof:id":421179947,
-    "wof:lastmodified":1561777398,
+    "wof:lastmodified":1563309087,
     "wof:name":"Dikhil",
     "wof:parent_id":1108759751,
     "wof:placetype":"locality",
