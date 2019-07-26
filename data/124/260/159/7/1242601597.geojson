@@ -30,6 +30,9 @@
         "M\u00e9\u00e9 D\u00f4ho",
         "M\u00e9d\u00e9ho"
     ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u062f\u06cc\u06c1\u0648"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1242601597,
-    "wof:lastmodified":1537619785,
+    "wof:lastmodified":1564125461,
     "wof:name":"Medeho",
     "wof:parent_id":1108759759,
     "wof:placetype":"locality",

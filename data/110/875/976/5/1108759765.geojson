@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.170005,
-    "geom:area_square_m":2054437170.658968,
+    "geom:area_square_m":2054437170.658899,
     "geom:bbox":"42.2128058521,11.8806149659,42.710706707,12.526912",
     "geom:latitude":12.228182,
     "geom:longitude":42.463842,
@@ -24,6 +24,45 @@
     "mps:longitude":42.463873,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062f\u0631\u0629"
+    ],
+    "name:azb_x_preferred":[
+        "\u062f\u0631\u0647"
+    ],
+    "name:ceb_x_preferred":[
+        "Dorra"
+    ],
+    "name:deu_x_preferred":[
+        "Dorra"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Dorra"
+    ],
+    "name:ita_x_preferred":[
+        "Dorra"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u043e\u0440\u0440\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Dorra"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u0440\u0440\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Dorra"
+    ],
+    "name:tur_x_preferred":[
+        "Dorra"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u0631\u06c1"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -45,7 +84,7 @@
         }
     ],
     "wof:id":1108759765,
-    "wof:lastmodified":1512517047,
+    "wof:lastmodified":1564125449,
     "wof:name":"Dorra",
     "wof:parent_id":85670491,
     "wof:placetype":"county",

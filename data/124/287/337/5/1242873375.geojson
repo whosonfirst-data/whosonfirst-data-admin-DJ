@@ -25,6 +25,33 @@
     "iso:country":"DJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Balho"
+    ],
+    "name:est_x_preferred":[
+        "Balho"
+    ],
+    "name:fra_x_preferred":[
+        "Balho"
+    ],
+    "name:ita_x_preferred":[
+        "Balho"
+    ],
+    "name:pol_x_preferred":[
+        "Balho"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u044c\u0445\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Balho"
+    ],
+    "name:tur_x_preferred":[
+        "Balho"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0627\u0644\u06c1\u0648"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +76,7 @@
         }
     ],
     "wof:id":1242873375,
-    "wof:lastmodified":1537504195,
+    "wof:lastmodified":1564125460,
     "wof:name":"Balho",
     "wof:parent_id":1108759763,
     "wof:placetype":"locality",

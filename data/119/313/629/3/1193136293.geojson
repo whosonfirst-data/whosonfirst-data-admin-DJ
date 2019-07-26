@@ -30,6 +30,9 @@
         "Bankouw\u00e2le",
         "Bankoual\u00e9"
     ],
+    "name:urd_x_preferred":[
+        "\u0628\u0627\u0646\u06a9\u0624\u0627\u0644\u06d2"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1193136293,
-    "wof:lastmodified":1537619785,
+    "wof:lastmodified":1564125448,
     "wof:name":"Bankouale",
     "wof:parent_id":1108759767,
     "wof:placetype":"locality",
