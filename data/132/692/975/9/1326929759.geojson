@@ -25,9 +25,15 @@
     "iso:country":"DJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mouddo"
+    ],
     "name:und_x_variant":[
         "Mouddo",
         "Moudo"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0624\u062f\u0648"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1326929759,
-    "wof:lastmodified":1537619785,
+    "wof:lastmodified":1564125444,
     "wof:name":"Moudo",
     "wof:parent_id":1108759765,
     "wof:placetype":"locality",

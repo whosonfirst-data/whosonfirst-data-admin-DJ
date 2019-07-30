@@ -25,8 +25,17 @@
     "iso:country":"DJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "\u1e0e\u00e2nan"
+    ],
+    "name:swe_x_preferred":[
+        "\u1e0e\u00e2nan"
+    ],
     "name:und_x_variant":[
         "\u1e0e\u00e2nan"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u06c1\u0627\u0646"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1309915371,
-    "wof:lastmodified":1537619785,
+    "wof:lastmodified":1564125459,
     "wof:name":"Danan",
     "wof:parent_id":1108759739,
     "wof:placetype":"locality",

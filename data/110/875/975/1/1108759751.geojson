@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0903,
-    "geom:area_square_m":1095380480.021684,
+    "geom:area_square_m":1095380480.021699,
     "geom:bbox":"42.3017404632,11.0025,42.6683940091,11.3833783035",
     "geom:latitude":11.180442,
     "geom:longitude":42.472253,
@@ -24,6 +24,75 @@
     "mps:longitude":42.45046,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062f\u062e\u064a\u0644"
+    ],
+    "name:bel_x_preferred":[
+        "\u0414\u044b\u0445\u0456\u043b"
+    ],
+    "name:ceb_x_preferred":[
+        "Dikhil"
+    ],
+    "name:dan_x_preferred":[
+        "Dikhil"
+    ],
+    "name:deu_x_preferred":[
+        "Dikhil"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b9\u03ba\u03af\u03bb"
+    ],
+    "name:est_x_preferred":[
+        "Dikhil"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u062e\u06cc\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Dikhil"
+    ],
+    "name:frr_x_preferred":[
+        "Dikhil"
+    ],
+    "name:ind_x_preferred":[
+        "Dikhil"
+    ],
+    "name:ita_x_preferred":[
+        "Dikhil"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30a3\u30ad\u30eb"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d8\u10d9\u10d8\u10da\u10d8"
+    ],
+    "name:lit_x_preferred":[
+        "Dikilis"
+    ],
+    "name:nld_x_preferred":[
+        "Dikhil"
+    ],
+    "name:pol_x_preferred":[
+        "Dikhil"
+    ],
+    "name:ron_x_preferred":[
+        "Dikhil"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u043a\u0438\u043b\u044c"
+    ],
+    "name:swe_x_preferred":[
+        "Dikhil"
+    ],
+    "name:tur_x_preferred":[
+        "Dikhil"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u062e\u06cc\u0644"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fea\u57fa\u52d2"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -45,7 +114,7 @@
         }
     ],
     "wof:id":1108759751,
-    "wof:lastmodified":1512517047,
+    "wof:lastmodified":1564125455,
     "wof:name":"Dikhil",
     "wof:parent_id":85670483,
     "wof:placetype":"county",

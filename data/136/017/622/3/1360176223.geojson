@@ -25,6 +25,21 @@
     "iso:country":"DJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ou\u00ea\u2018a"
+    ],
+    "name:deu_x_preferred":[
+        "Oueah"
+    ],
+    "name:fra_x_preferred":[
+        "Oueah"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u044f"
+    ],
+    "name:swe_x_preferred":[
+        "Ou\u00ea\u2018a"
+    ],
     "name:und_x_variant":[
         "W\u00ea\u2018a",
         "Ou\u00ea\u2018a"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1360176223,
-    "wof:lastmodified":1537619785,
+    "wof:lastmodified":1564125459,
     "wof:name":"Oue`a",
     "wof:parent_id":1108759745,
     "wof:placetype":"locality",
