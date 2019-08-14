@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AR"
+    ],
     "lbl:latitude":11.468116,
     "lbl:longitude":42.769953,
     "mps:latitude":11.409221,
@@ -327,9 +330,6 @@
         }
     ],
     "wof:id":85670477,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "fra"
@@ -338,7 +338,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1563309068,
+    "wof:lastmodified":1565672873,
     "wof:name":"Arta",
     "wof:parent_id":85632319,
     "wof:placetype":"region",

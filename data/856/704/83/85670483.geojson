@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DK"
+    ],
     "lbl:latitude":11.354635,
     "lbl:longitude":42.127855,
     "mps:latitude":11.338576,
@@ -296,9 +299,6 @@
         }
     ],
     "wof:id":85670483,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara",
         "fra"
@@ -307,7 +307,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1563309068,
+    "wof:lastmodified":1565672873,
     "wof:name":"Dikhil",
     "wof:parent_id":85632319,
     "wof:placetype":"region",
