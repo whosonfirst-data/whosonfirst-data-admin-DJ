@@ -9,15 +9,18 @@
     "geom:bbox":"42.92944,11.31028,42.92944,11.31028",
     "geom:latitude":11.31028,
     "geom:longitude":42.92944,
-    "gn:gn_country":"DJ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3519,
+    "gn:country":"DJ",
+    "gn:fcode":"PPL",
     "gn:population":3519,
     "iso:country":"DJ",
+    "lbl:bbox":"42.90944,11.29028,42.94944,11.33028",
     "lbl:latitude":11.31028,
     "lbl:longitude":42.92944,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0647\u0644\u0647\u0648\u0644"
@@ -61,7 +64,7 @@
     "name:tur_x_preferred":[
         "Holhol"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Holl-Holl"
     ],
     "name:urd_x_preferred":[
@@ -79,7 +82,7 @@
     "qs_pg:qs_id":531199,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1125779809,
-    "wof:lastmodified":1563309089,
+    "wof:lastmodified":1566721458,
     "wof:name":"Holhol",
     "wof:parent_id":1108759739,
     "wof:placetype":"locality",

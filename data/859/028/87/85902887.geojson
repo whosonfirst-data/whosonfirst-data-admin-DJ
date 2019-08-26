@@ -12,8 +12,10 @@
     "gn:latitude":11.6,
     "gn:longitude":43.15,
     "iso:country":"DJ",
+    "lbl:bbox":"43.142655,11.589092,43.152655,11.599092",
     "lbl:latitude":11.594092,
     "lbl:longitude":43.147655,
+    "lbl:max_zoom":18.0,
     "mps:latitude":11.605013,
     "mps:longitude":43.146763,
     "mz:hierarchy_label":0,
@@ -55,9 +57,6 @@
     "name:swe_x_preferred":[
         "La Plaine"
     ],
-    "name:unk_x_variant":[
-        "La Plaine"
-    ],
     "qs:gn_adm0_cc":"DJ",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":223817,
@@ -85,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85670473,
         102191573,
@@ -96,7 +95,7 @@
     "wof:concordances":{
         "gn:id":221981,
         "gp:id":1310954,
-        "qs:id":238641
+        "qs_pg:id":238641
     },
     "wof:country":"DJ",
     "wof:geomhash":"f47860a79ae8c33a5d00e232feb97fc9",
@@ -114,7 +113,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1564125445,
+    "wof:lastmodified":1566721452,
     "wof:name":"La Plaine",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

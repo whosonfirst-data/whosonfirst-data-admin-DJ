@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":11.558121,
     "lbl:longitude":43.031454,
+    "lbl:min_zoom":8.0,
     "mps:latitude":11.553171,
     "mps:longitude":43.04782,
     "mz:hierarchy_label":1,
@@ -349,7 +350,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0436\u0438\u0431\u0443\u0442\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cercle de Djibouti"
     ],
     "name:urd_x_preferred":[
@@ -463,9 +464,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-05-29",
+    "src:population_date":"2009-05-29",
     "statoids:area_km":"200",
     "statoids:area_mi":"100",
     "statoids:as_of_date":"2009-05-29",
@@ -489,7 +490,7 @@
         "gp:id":2345158,
         "hasc:id":"DJ.DB",
         "iso:id":"DJ-DJ",
-        "qs:id":453291,
+        "qs_pg:id":453291,
         "wd:id":"Q3604"
     },
     "wof:country":"DJ",
@@ -510,11 +511,10 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1565672872,
+    "wof:lastmodified":1566721452,
     "wof:name":"Djibouti",
     "wof:parent_id":85632319,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"city",
     "wof:population":475322,
     "wof:population_rank":10,

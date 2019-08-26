@@ -12,6 +12,8 @@
     "iso:country":"DJ",
     "lbl:latitude":11.502935,
     "lbl:longitude":42.895005,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Arta",
     "meso:dissme":"ArtaDJIBOUTI",
     "meso:gadm_adm2":"Djibouti",
@@ -24,6 +26,7 @@
     "mps:longitude":42.895005,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ace_x_preferred":[
         "Djibouti"
     ],
@@ -625,7 +628,7 @@
         "IJibuthi"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632319,
@@ -645,7 +648,7 @@
         }
     ],
     "wof:id":1108759745,
-    "wof:lastmodified":1564125454,
+    "wof:lastmodified":1566721455,
     "wof:name":"Djibouti",
     "wof:parent_id":85670477,
     "wof:placetype":"county",

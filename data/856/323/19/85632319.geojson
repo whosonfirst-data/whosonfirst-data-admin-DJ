@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":11.927315,
     "lbl:longitude":42.454406,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":11.927315,
     "mps:longitude":42.454406,
     "mz:hierarchy_label":1,
@@ -791,9 +793,7 @@
         "Dibuti"
     ],
     "name:und_x_variant":[
-        "D\u00edb\u00fat\u00ed"
-    ],
-    "name:unk_x_variant":[
+        "D\u00edb\u00fat\u00ed",
         "Territoire de la C\u00f4te Fran\u00e7aise des Somalis"
     ],
     "name:urd_x_preferred":[
@@ -951,7 +951,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"253",
     "statoids:ds":"F",
@@ -992,7 +992,7 @@
         "mzb:id":"djibouti",
         "ne:adm0_a3":"DJI",
         "nyt:id":"N21280848106515075741",
-        "qs:id":79660,
+        "qs_pg:id":79660,
         "uncrt:id":"F",
         "wd:id":"Q977",
         "wk:page":"Djibouti",
@@ -1016,7 +1016,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1565672872,
+    "wof:lastmodified":1566721452,
     "wof:name":"Djibouti",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

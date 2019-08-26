@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Djibouti",
     "iso:country":"DJ",
+    "lbl:bbox":"43.3147,12.36725,43.3547,12.40725",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u062e\u0648\u0631 \u0622\u0646\u0642\u0627\u0631"
     ],
@@ -53,8 +57,7 @@
         "Poste d\u2019Anghor",
         "Khor-Anghar",
         "Ang\u00e2rou",
-        "Anghar",
-        "Kh\u00f4r Angar"
+        "Anghar"
     ],
     "name:urd_x_preferred":[
         "\u06a9\u06c1\u0648\u0631 \u0622\u0646\u06af\u0627\u0631"
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1326754447,
-    "wof:lastmodified":1564125443,
+    "wof:lastmodified":1566721451,
     "wof:name":"Khor Angar",
     "wof:parent_id":1108759759,
     "wof:placetype":"locality",

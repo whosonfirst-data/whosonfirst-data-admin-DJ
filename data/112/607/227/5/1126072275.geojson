@@ -9,16 +9,19 @@
     "geom:bbox":"43.15,11.58333,43.15,11.58333",
     "geom:latitude":11.58333,
     "geom:longitude":43.15,
-    "gn:gn_country":"DJ",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"DJ",
+    "gn:fcode":"PPLX",
     "gn:latitude":11.58333,
     "gn:longitude":43.15,
+    "gn:population":0,
     "iso:country":"DJ",
+    "lbl:bbox":"43.145,11.57833,43.155,11.58833",
     "lbl:latitude":11.58333,
     "lbl:longitude":43.15,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_colloquial":[
         "Boul\u2019aws",
@@ -39,9 +42,8 @@
     "name:nld_x_preferred":[
         "Boul'aos"
     ],
-    "name:unk_x_variant":[
-        "Bo\u00fbl\u2018aws",
-        "Bo\u00fbl\u2019aws"
+    "name:und_x_variant":[
+        "Bo\u00fbl\u2018aws"
     ],
     "name:urd_x_preferred":[
         "\u0628\u0624\u0644\u0627\u0648\u0633"
@@ -67,7 +69,7 @@
     "qs_pg:woe_adm0":23424797,
     "qs_pg:woe_id":1310934,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424797,
     "woe:name_adm0":"\u062c\u064a\u0628\u0648\u062a\u064a",
     "woe:name_adm1":"Djibouti",
@@ -82,7 +84,6 @@
     "wof:concordances":{
         "gn:id":224457,
         "gp:id":1310934,
-        "qs:id":316687,
         "qs_pg:id":316687,
         "wd:id":"Q4949494",
         "wk:page":"Boul'aos"
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1126072275,
-    "wof:lastmodified":1563309088,
+    "wof:lastmodified":1566721458,
     "wof:name":"Bo\u00fbl\u2019aws",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

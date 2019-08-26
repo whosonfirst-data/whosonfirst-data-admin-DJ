@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Djibouti",
     "iso:country":"DJ",
+    "lbl:bbox":"42.65361,11.80278,42.69361,11.84278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bankouw\u00e2le",
         "Bankoual\u00e9"
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1193136293,
-    "wof:lastmodified":1564125448,
+    "wof:lastmodified":1566721454,
     "wof:name":"Bankouale",
     "wof:parent_id":1108759767,
     "wof:placetype":"locality",

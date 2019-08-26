@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":11.354635,
     "lbl:longitude":42.127855,
+    "lbl:min_zoom":8.0,
     "mps:latitude":11.338576,
     "mps:longitude":42.111409,
     "mz:hierarchy_label":1,
@@ -159,7 +160,7 @@
         "Dikhil"
     ],
     "name:tam_x_preferred":[
-        "\u0b9f\u0bbf\u0b83\u0bb9\u0bbf\u0bb2\u0bcd  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+        "\u0b9f\u0bbf\u0b83\u0bb9\u0bbf\u0bb2\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c21\u0c3f\u0c16\u0c3f\u0c32\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
@@ -173,7 +174,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0456\u043a\u0456\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dikkil"
     ],
     "name:urd_x_preferred":[
@@ -257,9 +258,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-05-29",
+    "src:population_date":"2009-05-29",
     "statoids:area_km":"7,200",
     "statoids:area_mi":"2,800",
     "statoids:as_of_date":"2009-05-29",
@@ -284,7 +285,7 @@
         "gp:id":2345157,
         "hasc:id":"DJ.DK",
         "iso:id":"DJ-DI",
-        "qs:id":219539,
+        "qs_pg:id":219539,
         "unlc:id":"DJ-DI",
         "wd:id":"Q283979",
         "wk:page":"Dikhil Region"
@@ -307,11 +308,10 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1565672873,
+    "wof:lastmodified":1566721453,
     "wof:name":"Dikhil",
     "wof:parent_id":85632319,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":88948,
     "wof:population_rank":8,

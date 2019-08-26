@@ -10,6 +10,9 @@
     "geom:latitude":11.96306,
     "geom:longitude":43.29056,
     "iso:country":"DJ",
+    "lbl:bbox":"43.27056,11.94306,43.31056,11.98306",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -107,7 +110,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0431\u043e\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hayyou"
     ],
     "name:urd_x_preferred":[
@@ -242,7 +245,7 @@
     "wof:concordances":{
         "gn:id":221527,
         "gp:id":1310960,
-        "qs:id":273747,
+        "qs_pg:id":273747,
         "wd:id":"Q860179",
         "wk:page":"Obock"
     },
@@ -259,7 +262,7 @@
         }
     ],
     "wof:id":421168675,
-    "wof:lastmodified":1563309082,
+    "wof:lastmodified":1566721456,
     "wof:name":"Obock",
     "wof:parent_id":1108759759,
     "wof:placetype":"locality",
