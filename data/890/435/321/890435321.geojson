@@ -11,8 +11,11 @@
     "geom:longitude":42.7125,
     "gn:country":"DJ",
     "gn:fcode":"PPLA",
-    "gn:pop":40074,
+    "gn:population":40074,
     "iso:country":"DJ",
+    "lbl:bbox":"42.6925,11.13583,42.7325,11.17583",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
@@ -118,7 +121,7 @@
     "name:tur_x_preferred":[
         "Ali Sabieh"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ali Sabiet"
     ],
     "name:urd_x_preferred":[
@@ -234,7 +237,7 @@
     "wof:concordances":{
         "gn:id":225284,
         "gp:id":1310926,
-        "qs:id":273749,
+        "qs_pg:id":273749,
         "wd:id":"Q842854"
     },
     "wof:country":"DJ",
@@ -250,7 +253,7 @@
         }
     ],
     "wof:id":890435321,
-    "wof:lastmodified":1563309087,
+    "wof:lastmodified":1566721457,
     "wof:name":"'Ali Sabieh",
     "wof:parent_id":1108759739,
     "wof:placetype":"locality",

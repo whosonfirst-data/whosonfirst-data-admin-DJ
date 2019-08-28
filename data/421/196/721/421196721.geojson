@@ -10,8 +10,12 @@
     "geom:latitude":12.15028,
     "geom:longitude":42.47624,
     "iso:country":"DJ",
+    "lbl:bbox":"42.45624,12.13028,42.49624,12.17028",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062f\u0631\u0629"
@@ -95,7 +99,7 @@
     "wof:concordances":{
         "gn:id":223773,
         "gp:id":1310943,
-        "qs:id":1297256,
+        "qs_pg:id":1297256,
         "wd:id":"Q970073",
         "wk:page":"Dorra"
     },
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":421196721,
-    "wof:lastmodified":1563309086,
+    "wof:lastmodified":1566721457,
     "wof:name":"Dorra",
     "wof:parent_id":1108759765,
     "wof:placetype":"locality",

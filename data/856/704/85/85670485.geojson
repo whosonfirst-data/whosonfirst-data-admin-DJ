@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":12.272345,
     "lbl:longitude":43.092686,
+    "lbl:min_zoom":8.0,
     "mps:latitude":12.28899,
     "mps:longitude":43.082476,
     "mz:hierarchy_label":1,
@@ -250,9 +251,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-05-29",
+    "src:population_date":"2009-05-29",
     "statoids:area_km":"4,700",
     "statoids:area_mi":"1,800",
     "statoids:as_of_date":"2009-05-29",
@@ -277,7 +278,7 @@
         "gp:id":2345159,
         "hasc:id":"DJ.OB",
         "iso:id":"DJ-OB",
-        "qs:id":984077,
+        "qs_pg:id":984077,
         "unlc:id":"DJ-OB",
         "wd:id":"Q844929",
         "wk:page":"Obock Region"
@@ -300,11 +301,10 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1565672873,
+    "wof:lastmodified":1566721453,
     "wof:name":"Obock",
     "wof:parent_id":85632319,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":37856,
     "wof:population_rank":7,
