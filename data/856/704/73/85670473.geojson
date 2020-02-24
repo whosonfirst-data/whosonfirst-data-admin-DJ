@@ -494,6 +494,9 @@
         "wd:id":"Q3604"
     },
     "wof:country":"DJ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"357b7e3fb4f0d2b74540971aa56212ab",
     "wof:hierarchy":[
         {
@@ -511,7 +514,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1566721452,
+    "wof:lastmodified":1582332267,
     "wof:name":"Djibouti",
     "wof:parent_id":85632319,
     "wof:placetype":"region",

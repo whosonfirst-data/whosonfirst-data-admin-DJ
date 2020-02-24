@@ -87,6 +87,9 @@
         "wk:page":"Boul'aos"
     },
     "wof:country":"DJ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bc1d081cf3ee7cbb096a02e5fa5b8dc6",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1534379286,
+    "wof:lastmodified":1582332266,
     "wof:name":"Bo\u00fbl\u2019aws",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

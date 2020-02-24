@@ -98,6 +98,9 @@
         "qs_pg:id":238641
     },
     "wof:country":"DJ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f47860a79ae8c33a5d00e232feb97fc9",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566721452,
+    "wof:lastmodified":1582332266,
     "wof:name":"La Plaine",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

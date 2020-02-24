@@ -291,6 +291,9 @@
         "wk:page":"Dikhil Region"
     },
     "wof:country":"DJ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"17ee99471212c6384533a69974b69d57",
     "wof:hierarchy":[
         {
@@ -308,7 +311,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1566721453,
+    "wof:lastmodified":1582332267,
     "wof:name":"Dikhil",
     "wof:parent_id":85632319,
     "wof:placetype":"region",
