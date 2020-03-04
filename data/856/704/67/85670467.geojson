@@ -343,6 +343,9 @@
         "wd:id":"Q821008"
     },
     "wof:country":"DJ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"787f6a3052260c2266c628745e8b6ec0",
     "wof:hierarchy":[
         {
@@ -360,7 +363,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1566721452,
+    "wof:lastmodified":1582332267,
     "wof:name":"Ali Sabieh",
     "wof:parent_id":85632319,
     "wof:placetype":"region",

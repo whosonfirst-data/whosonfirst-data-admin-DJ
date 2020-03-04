@@ -322,6 +322,9 @@
         "wd:id":"Q705941"
     },
     "wof:country":"DJ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6a400827ce117c04e4f0ded93f86a5e9",
     "wof:hierarchy":[
         {
@@ -339,7 +342,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1566721453,
+    "wof:lastmodified":1582332267,
     "wof:name":"Arta",
     "wof:parent_id":85632319,
     "wof:placetype":"region",

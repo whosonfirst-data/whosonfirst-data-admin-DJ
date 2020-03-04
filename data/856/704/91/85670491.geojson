@@ -289,6 +289,9 @@
         "wd:id":"Q645896"
     },
     "wof:country":"DJ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a9bb40af91fbd41f12d21a52d40be140",
     "wof:hierarchy":[
         {
@@ -306,7 +309,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1566721453,
+    "wof:lastmodified":1582332267,
     "wof:name":"Tadjourah",
     "wof:parent_id":85632319,
     "wof:placetype":"region",

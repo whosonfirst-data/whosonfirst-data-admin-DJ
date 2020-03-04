@@ -284,6 +284,9 @@
         "wk:page":"Obock Region"
     },
     "wof:country":"DJ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"96962da1b1dc1e4a8b1b0f62d5ca4367",
     "wof:hierarchy":[
         {
@@ -301,7 +304,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1566721453,
+    "wof:lastmodified":1582332267,
     "wof:name":"Obock",
     "wof:parent_id":85632319,
     "wof:placetype":"region",
