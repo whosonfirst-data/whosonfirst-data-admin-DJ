@@ -977,9 +977,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "dbp:id":"Djibouti",
-        "digitalenvoy:country_code":[
-            262
-        ],
+        "digitalenvoy:country_code":262,
         "fb:id":"en.djibouti",
         "fifa:id":"DJI",
         "fips:code":"DJ",
@@ -1024,7 +1022,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1583529118,
+    "wof:lastmodified":1583797323,
     "wof:name":"Djibouti",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
