@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.793235,
-    "geom:area_square_m":21708940846.069561,
+    "geom:area_square_m":21708940598.187408,
     "geom:bbox":"41.759722,10.931944,43.444527,12.713697",
     "geom:latitude":11.743267,
     "geom:longitude":42.580357,
@@ -61,6 +61,9 @@
     "name:arg_x_preferred":[
         "Chibuti"
     ],
+    "name:ary_x_preferred":[
+        "\u062f\u062c\u064a\u0628\u0648\u062a\u064a"
+    ],
     "name:arz_x_preferred":[
         "\u062c\u064a\u0628\u0648\u062a\u0649"
     ],
@@ -84,6 +87,9 @@
     ],
     "name:bam_x_preferred":[
         "Jibuti"
+    ],
+    "name:ban_x_preferred":[
+        "Djibouti"
     ],
     "name:bcl_x_preferred":[
         "Dibouti"
@@ -167,6 +173,12 @@
     "name:dan_x_preferred":[
         "Djibouti"
     ],
+    "name:deu_at_x_preferred":[
+        "Dschibuti"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Dschibuti"
+    ],
     "name:deu_x_preferred":[
         "Dschibuti"
     ],
@@ -187,6 +199,12 @@
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03b6\u03b9\u03bc\u03c0\u03bf\u03c5\u03c4\u03af"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Djibouti"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Djibouti"
     ],
     "name:eng_x_preferred":[
         "Djibouti"
@@ -253,6 +271,9 @@
     ],
     "name:gag_x_preferred":[
         "Cibuti"
+    ],
+    "name:gcr_x_preferred":[
+        "Djibouti"
     ],
     "name:gla_x_preferred":[
         "Diob\u00f9taidh"
@@ -513,6 +534,9 @@
     "name:mon_x_preferred":[
         "\u0416\u0438\u0431\u0443\u0442\u0438"
     ],
+    "name:mri_x_preferred":[
+        "Tip\u016bti"
+    ],
     "name:mrj_x_preferred":[
         "\u0414\u0436\u0438\u0431\u0443\u0442\u0438"
     ],
@@ -622,6 +646,9 @@
     "name:pol_x_preferred":[
         "D\u017cibuti"
     ],
+    "name:por_br_x_preferred":[
+        "Djibouti"
+    ],
     "name:por_x_preferred":[
         "Djibouti"
     ],
@@ -712,6 +739,12 @@
     ],
     "name:srd_x_preferred":[
         "Gibuti"
+    ],
+    "name:srp_ec_x_preferred":[
+        "\u040f\u0438\u0431\u0443\u0442\u0438"
+    ],
+    "name:srp_el_x_preferred":[
+        "D\u017eibuti"
     ],
     "name:srp_x_preferred":[
         "\u040f\u0438\u0431\u0443\u0442\u0438"
@@ -856,8 +889,23 @@
     "name:zha_x_preferred":[
         "Djibouti"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u5409\u5e03\u63d0"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u5409\u5e03\u63d0"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Djibouti"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u5409\u5e03\u63d0"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u5409\u5e03\u63d0"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5409\u5e03\u5730"
     ],
     "name:zho_x_preferred":[
         "\u5409\u5e03\u63d0"
@@ -1022,7 +1070,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1583797323,
+    "wof:lastmodified":1587428771,
     "wof:name":"Djibouti",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
