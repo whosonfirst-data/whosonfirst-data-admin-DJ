@@ -498,11 +498,13 @@
     "wof:belongsto":[
         102191573,
         85632319,
-        85670473,
-        1108759755
+        1108759755,
+        85670473
     ],
     "wof:breaches":[],
-    "wof:capital_of":85632319,
+    "wof:capital_of":[
+        85632319
+    ],
     "wof:concordances":{
         "gn:id":223817,
         "gp:id":1310941,
@@ -524,7 +526,7 @@
         }
     ],
     "wof:id":421204195,
-    "wof:lastmodified":1566721457,
+    "wof:lastmodified":1607390888,
     "wof:name":"Djibouti",
     "wof:parent_id":85670473,
     "wof:placetype":"locality",
