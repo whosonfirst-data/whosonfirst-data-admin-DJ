@@ -36,10 +36,10 @@
         "\u1305\u1261\u1272"
     ],
     "name:ara_x_preferred":[
-        "Djibouti"
+        "\u062c\u064a\u0628\u0648\u062a\u064a"
     ],
     "name:ara_x_variant":[
-        "\u062c\u064a\u0628\u0648\u062a\u064a"
+        "Djibouti"
     ],
     "name:ast_x_preferred":[
         "Xibuti"
@@ -517,7 +517,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1608047751,
+    "wof:lastmodified":1614893729,
     "wof:name":"Djibouti",
     "wof:parent_id":85632319,
     "wof:placetype":"region",
