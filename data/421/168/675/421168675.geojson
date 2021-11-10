@@ -26,6 +26,9 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u0431\u043e\u043a"
     ],
+    "name:ben_x_preferred":[
+        "\u0993\u09ac\u09cb\u0995"
+    ],
     "name:cat_x_preferred":[
         "Obock"
     ],
@@ -62,8 +65,14 @@
     "name:frr_x_preferred":[
         "Obock"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05d1\u05d5\u05e7"
+    ],
     "name:hin_x_preferred":[
         "\u0913\u092c\u0949\u0915"
+    ],
+    "name:hun_x_preferred":[
+        "Obock"
     ],
     "name:ind_x_preferred":[
         "Obock"
@@ -115,6 +124,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u0648\u0628\u0648\u06a9"
+    ],
+    "name:vie_x_preferred":[
+        "Obock"
     ],
     "name:zho_x_preferred":[
         "\u5967\u535a\u514b"
@@ -262,7 +274,7 @@
         }
     ],
     "wof:id":421168675,
-    "wof:lastmodified":1566721456,
+    "wof:lastmodified":1636497600,
     "wof:name":"Obock",
     "wof:parent_id":1108759759,
     "wof:placetype":"locality",

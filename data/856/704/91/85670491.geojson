@@ -93,6 +93,9 @@
     "name:hin_x_preferred":[
         "\u0924\u0926\u091c\u094c\u0930\u093e \u0915\u094d\u0937\u0947\u0924\u094d\u0930"
     ],
+    "name:hun_x_preferred":[
+        "Tadjourah"
+    ],
     "name:hye_x_preferred":[
         "\u0539\u0561\u0576\u057b\u0578\u0582\u0580\u0561\u0570"
     ],
@@ -310,7 +313,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1614893729,
+    "wof:lastmodified":1636497598,
     "wof:name":"Tadjourah",
     "wof:parent_id":85632319,
     "wof:placetype":"region",

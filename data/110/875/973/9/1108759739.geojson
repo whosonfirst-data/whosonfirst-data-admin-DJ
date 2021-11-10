@@ -60,6 +60,12 @@
     "name:frr_x_preferred":[
         "Ali Sabieh"
     ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05dc\u05d9 \u05e1\u05d1\u05d9\u05d9\u05d7"
+    ],
+    "name:hun_x_preferred":[
+        "Ali Sabieh"
+    ],
     "name:hye_x_preferred":[
         "\u0531\u056c\u056b \u054d\u0561\u0562\u056b\u0575\u0565\u0570"
     ],
@@ -138,7 +144,7 @@
         }
     ],
     "wof:id":1108759739,
-    "wof:lastmodified":1608047751,
+    "wof:lastmodified":1636497599,
     "wof:name":"Ali Sabieh",
     "wof:parent_id":85670467,
     "wof:placetype":"county",

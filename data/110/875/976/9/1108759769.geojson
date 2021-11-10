@@ -30,6 +30,9 @@
     "name:fra_x_preferred":[
         "Tadjoura"
     ],
+    "name:hun_x_preferred":[
+        "Tadjourah"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1108759769,
-    "wof:lastmodified":1628266723,
+    "wof:lastmodified":1636497599,
     "wof:name":"Tadjourah",
     "wof:parent_id":85670491,
     "wof:placetype":"county",
