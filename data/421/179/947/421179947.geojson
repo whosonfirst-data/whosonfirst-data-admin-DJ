@@ -20,8 +20,17 @@
     "name:ara_x_preferred":[
         "\u062f\u062e\u064a\u0644"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u062e\u064a\u0644"
+    ],
+    "name:ast_x_preferred":[
+        "Dikhil"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0414\u044b\u0445\u0456\u043b"
+    ],
+    "name:bel_x_variant":[
+        "\u0414\u044b\u0445\u0456\u043b"
     ],
     "name:ben_x_preferred":[
         "\u09a6\u09bf\u0996\u09bf\u09b2"
@@ -42,6 +51,9 @@
         "Dikhil"
     ],
     "name:est_x_preferred":[
+        "Dikhil"
+    ],
+    "name:eus_x_preferred":[
         "Dikhil"
     ],
     "name:fas_x_preferred":[
@@ -127,6 +139,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8fea\u57fa\u52d2"
+    ],
+    "name:zul_x_preferred":[
+        "Dikhil"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Djibouti",
@@ -271,7 +286,7 @@
         }
     ],
     "wof:id":421179947,
-    "wof:lastmodified":1636497600,
+    "wof:lastmodified":1690874642,
     "wof:name":"Dikhil",
     "wof:parent_id":1108759751,
     "wof:placetype":"locality",

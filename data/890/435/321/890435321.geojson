@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0639\u0644\u064a \u0635\u0628\u064a\u062d"
     ],
+    "name:arz_x_preferred":[
+        "\u0639\u0644\u0649 \u0635\u0628\u064a\u062d"
+    ],
+    "name:ast_x_preferred":[
+        "Ali Sabieh"
+    ],
     "name:azb_x_preferred":[
         "\u0639\u0644\u06cc \u0635\u0628\u06cc\u062d"
     ],
@@ -52,6 +58,9 @@
     "name:est_x_preferred":[
         "Ali Sabieh"
     ],
+    "name:eus_x_preferred":[
+        "Ali Sabieh"
+    ],
     "name:fas_x_preferred":[
         "\u0639\u0644\u06cc \u0635\u0628\u06cc\u062d"
     ],
@@ -63,6 +72,9 @@
     ],
     "name:frr_x_preferred":[
         "Ali Sabieh"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05dc\u05d9 \u05e1\u05d1\u05d9\u05d7"
     ],
     "name:hun_x_preferred":[
         "Ali Szabieh"
@@ -110,7 +122,11 @@
         "\u0410\u043b\u0438-\u0421\u0430\u0431\u0438\u0435"
     ],
     "name:rus_x_variant":[
-        "\u0410\u043b\u0438-\u0421\u0430\u0431\u044c\u0435"
+        "\u0410\u043b\u0438-\u0421\u0430\u0431\u044c\u0435",
+        "\u0410\u043b\u0438-\u0421\u0430\u0431\u0438\u0445"
+    ],
+    "name:som_x_preferred":[
+        "Cali Sabiix"
     ],
     "name:spa_x_preferred":[
         "Ali Sabieh"
@@ -121,14 +137,23 @@
     "name:tur_x_preferred":[
         "Ali Sabieh"
     ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u0456-\u0421\u0430\u0431\u0456\u0445"
+    ],
     "name:und_x_variant":[
         "Ali Sabiet"
     ],
     "name:urd_x_preferred":[
         "\u0639\u0644\u06cc \u0635\u0628\u06cc\u062d"
     ],
+    "name:vie_x_preferred":[
+        "Ali Sabieh"
+    ],
     "name:zho_x_preferred":[
         "\u963f\u91cc\u8428\u6bd4\u8036"
+    ],
+    "name:zul_x_preferred":[
+        "Ali Sabieh"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Djibouti",
@@ -253,7 +278,7 @@
         }
     ],
     "wof:id":890435321,
-    "wof:lastmodified":1566721457,
+    "wof:lastmodified":1690874643,
     "wof:name":"'Ali Sabieh",
     "wof:parent_id":1108759739,
     "wof:placetype":"locality",
