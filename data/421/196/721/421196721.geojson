@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062f\u0631\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u0631\u0647"
+    ],
     "name:azb_x_preferred":[
         "\u062f\u0631\u0647"
     ],
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":421196721,
-    "wof:lastmodified":1566721457,
+    "wof:lastmodified":1690874642,
     "wof:name":"Dorra",
     "wof:parent_id":1108759765,
     "wof:placetype":"locality",

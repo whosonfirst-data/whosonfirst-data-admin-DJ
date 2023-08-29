@@ -41,11 +41,23 @@
     "name:ara_x_variant":[
         "Djibouti"
     ],
+    "name:arg_x_preferred":[
+        "Chibuti"
+    ],
+    "name:ary_x_preferred":[
+        "\u062f\u062c\u064a\u0628\u0648\u062a\u064a"
+    ],
+    "name:arz_x_preferred":[
+        "\u062c\u064a\u0628\u0648\u062a\u0649"
+    ],
     "name:ast_x_preferred":[
         "Xibuti"
     ],
     "name:aze_x_preferred":[
         "Cibuti"
+    ],
+    "name:ban_x_preferred":[
+        "Djibouti"
     ],
     "name:bcl_x_preferred":[
         "Djibouti"
@@ -103,6 +115,9 @@
     ],
     "name:deu_x_preferred":[
         "Dschibuti"
+    ],
+    "name:diq_x_preferred":[
+        "Cibuti"
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03b6\u03b9\u03bc\u03c0\u03bf\u03c5\u03c4\u03af"
@@ -185,8 +200,14 @@
     "name:ido_x_preferred":[
         "Djibouti"
     ],
+    "name:ina_x_preferred":[
+        "Djibuti"
+    ],
     "name:ind_x_preferred":[
         "Djibouti"
+    ],
+    "name:ind_x_variant":[
+        "Jibouti"
     ],
     "name:isl_x_preferred":[
         "Dj\u00edb\u00fat\u00ed"
@@ -227,6 +248,9 @@
     "name:lav_x_preferred":[
         "D\u017eibuti"
     ],
+    "name:lij_x_preferred":[
+        "Gibuti"
+    ],
     "name:lit_x_preferred":[
         "D\u017eibutis"
     ],
@@ -239,6 +263,9 @@
     "name:mar_x_preferred":[
         "\u091c\u093f\u092c\u0942\u0924\u0940"
     ],
+    "name:mdf_x_preferred":[
+        "\u0414\u0436\u0438\u0431\u0443\u0442\u0438"
+    ],
     "name:mkd_x_preferred":[
         "\u040f\u0438\u0431\u0443\u0442\u0438"
     ],
@@ -250,6 +277,12 @@
     ],
     "name:msa_x_preferred":[
         "Djibouti"
+    ],
+    "name:mzn_x_preferred":[
+        "\u062c\u06cc\u0628\u0648\u062a\u06cc"
+    ],
+    "name:nah_x_preferred":[
+        "Altepetl Yibuti"
     ],
     "name:nan_x_preferred":[
         "Djibouti Chh\u012b"
@@ -269,6 +302,12 @@
     "name:oci_x_preferred":[
         "Jiboti"
     ],
+    "name:olo_x_preferred":[
+        "D\u017eibuti"
+    ],
+    "name:oss_x_preferred":[
+        "\u0414\u0436\u0438\u0431\u0443\u0442\u0438"
+    ],
     "name:pan_x_preferred":[
         "\u0a1c\u0a3f\u0a2c\u0a42\u0a24\u0a40"
     ],
@@ -283,6 +322,9 @@
     ],
     "name:por_x_preferred":[
         "Djibouti"
+    ],
+    "name:que_x_preferred":[
+        "Yiwuti"
     ],
     "name:ron_x_preferred":[
         "Djibouti"
@@ -302,6 +344,15 @@
     "name:slv_x_preferred":[
         "D\u017eibuti"
     ],
+    "name:sme_x_preferred":[
+        "Djibouti"
+    ],
+    "name:smn_x_preferred":[
+        "Djibouti"
+    ],
+    "name:sms_x_preferred":[
+        "Djibouti"
+    ],
     "name:sna_x_preferred":[
         "Djibouti"
     ],
@@ -314,6 +365,9 @@
     "name:sqi_x_preferred":[
         "Xhibuti"
     ],
+    "name:srd_x_preferred":[
+        "Gibuti"
+    ],
     "name:srp_x_preferred":[
         "\u040f\u0438\u0431\u0443\u0442\u0438"
     ],
@@ -325,6 +379,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bbf\u0baa\u0bc2\u0b9f\u0bcd\u0b9f\u0bbf"
+    ],
+    "name:tat_x_preferred":[
+        "\u0496\u0438\u0431\u0443\u0442\u0438"
     ],
     "name:tel_x_preferred":[
         "\u0c1c\u0c3f\u0c2c\u0c4b\u0c1f\u0c3f"
@@ -341,6 +398,9 @@
     "name:tuk_x_preferred":[
         "Jibuti"
     ],
+    "name:tum_x_preferred":[
+        "Djibouti"
+    ],
     "name:tur_x_preferred":[
         "Cibuti"
     ],
@@ -355,6 +415,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062c\u0628\u0648\u062a\u06cc \u0639\u0644\u0627\u0642\u06c1"
+    ],
+    "name:urd_x_variant":[
+        "\u062c\u0628\u0648\u062a\u06cc"
     ],
     "name:uzb_x_preferred":[
         "Jibuti"
@@ -374,6 +437,9 @@
     "name:wol_x_preferred":[
         "Jibuti"
     ],
+    "name:wuu_x_preferred":[
+        "\u5409\u5e03\u63d0\u5e02"
+    ],
     "name:xmf_x_preferred":[
         "\u10ef\u10d8\u10d1\u10e3\u10e2\u10d8"
     ],
@@ -391,6 +457,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5409\u5e03\u5730\u5e02"
+    ],
+    "name:zul_x_preferred":[
+        "Djibouti"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DJI",
@@ -517,7 +586,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1614893729,
+    "wof:lastmodified":1690874639,
     "wof:name":"Djibouti",
     "wof:parent_id":85632319,
     "wof:placetype":"region",

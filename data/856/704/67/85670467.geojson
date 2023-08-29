@@ -45,6 +45,9 @@
     "name:ben_x_preferred":[
         "\u0986\u09b2\u09bf \u09b8\u09be\u09ac\u09bf \u0985\u099e\u09cd\u099a\u09b2"
     ],
+    "name:bos_x_preferred":[
+        "Ali Sabieh"
+    ],
     "name:bre_x_preferred":[
         "Ali Sabieh"
     ],
@@ -88,6 +91,9 @@
     "name:est_x_variant":[
         "Ali Sabiehi piirkond"
     ],
+    "name:eus_x_preferred":[
+        "Ali Sabieh eskualdea"
+    ],
     "name:fas_x_preferred":[
         "\u0639\u0644\u06cc \u0635\u0628\u06cc\u062d"
     ],
@@ -111,6 +117,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e2\u05dc\u05d9 \u05e1\u05d1\u05d9\u05d9\u05d7"
+    ],
+    "name:heb_x_variant":[
+        "\u05e2\u05dc\u05d9 \u05e1\u05d1\u05d9\u05d7"
     ],
     "name:hin_x_preferred":[
         "\u0905\u0932\u0940 \u0938\u092c\u0940\u0939 \u092a\u094d\u0930\u0926\u0947\u0936"
@@ -149,7 +158,8 @@
         "\uc54c\ub9ac\uc0ac\ube44\uc5d0"
     ],
     "name:kor_x_variant":[
-        "\uc54c\ub9ac\uc0ac\ube44\uc5d0 \uc8fc"
+        "\uc54c\ub9ac\uc0ac\ube44\uc5d0 \uc8fc",
+        "\uc54c\ub9ac\uc0ac\ube44\uc5d0\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Al\u012b Sab\u012bhas re\u0123ions"
@@ -240,6 +250,9 @@
     ],
     "name:zho_x_variant":[
         "\u963f\u91cc\u85a9\u6bd4\u5dde"
+    ],
+    "name:zul_x_preferred":[
+        "Ali Sabieh Region"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"DJI",
@@ -372,7 +385,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1636497598,
+    "wof:lastmodified":1690874639,
     "wof:name":"Ali Sabieh",
     "wof:parent_id":85632319,
     "wof:placetype":"region",
