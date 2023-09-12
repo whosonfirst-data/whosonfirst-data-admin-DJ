@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.147112,
-    "geom:area_square_m":1779306283.335011,
+    "geom:area_square_m":1779306283.334837,
     "geom:bbox":"42.456829572,11.7018133553,42.9469889354,12.3424767345",
     "geom:latitude":12.001515,
     "geom:longitude":42.69229,
     "iso:country":"DJ",
+    "label:eng_x_preferred_longname":[
+        "Randa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":12.004481,
     "lbl:longitude":42.708927,
     "lbl:max_zoom":10.0,
@@ -37,6 +43,9 @@
         "Randa"
     ],
     "name:deu_x_preferred":[
+        "Randa"
+    ],
+    "name:eng_x_preferred":[
         "Randa"
     ],
     "name:fra_x_preferred":[
@@ -68,7 +77,7 @@
     "wof:concordances":{},
     "wof:country":"DJ",
     "wof:created":1481329070,
-    "wof:geomhash":"1411736170dc440ed23fc47239f5a9e2",
+    "wof:geomhash":"514cc89c2a80213d5da0406a99d81a4b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +87,7 @@
         }
     ],
     "wof:id":1108759767,
-    "wof:lastmodified":1566721454,
+    "wof:lastmodified":1694497844,
     "wof:name":"Randa",
     "wof:parent_id":85670491,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.081595,
-    "geom:area_square_m":987717571.477309,
+    "geom:area_square_m":987717437.60525,
     "geom:bbox":"42.466725,11.551278,43.071538,12.00399",
     "geom:latitude":11.771627,
     "geom:longitude":42.784047,
     "iso:country":"DJ",
+    "label:eng_x_preferred_longname":[
+        "Tadjourah District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.866598,
     "lbl:longitude":42.914213,
     "lbl:max_zoom":10.0,
@@ -27,6 +33,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Tadjourah"
+    ],
     "name:fra_x_preferred":[
         "Tadjoura"
     ],
@@ -44,7 +53,7 @@
     "wof:concordances":{},
     "wof:country":"DJ",
     "wof:created":1481329071,
-    "wof:geomhash":"99d1e1b20b9bb0a3bccfb07df151a2a4",
+    "wof:geomhash":"1e3f780e10a71fc3feb2a09596e53c27",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1108759769,
-    "wof:lastmodified":1636497599,
+    "wof:lastmodified":1694498103,
     "wof:name":"Tadjourah",
     "wof:parent_id":85670491,
     "wof:placetype":"county",

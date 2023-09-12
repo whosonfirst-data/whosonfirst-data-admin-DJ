@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.175796,
-    "geom:area_square_m":2132048897.984635,
+    "geom:area_square_m":2132048897.984759,
     "geom:bbox":"42.659534,10.981667,43.200116,11.492556",
     "geom:latitude":11.241005,
     "geom:longitude":42.907204,
     "iso:country":"DJ",
+    "label:eng_x_preferred_longname":[
+        "Ali Sabieh District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.246175,
     "lbl:longitude":42.907208,
     "lbl:max_zoom":10.0,
@@ -47,6 +53,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0391\u03bb\u03af \u03a3\u03b1\u03bc\u03c0\u03af"
+    ],
+    "name:eng_x_preferred":[
+        "Ali Sabieh"
     ],
     "name:est_x_preferred":[
         "Ali Sabieh"
@@ -134,7 +143,7 @@
     ],
     "wof:country":"DJ",
     "wof:created":1481329055,
-    "wof:geomhash":"1610a86dec725f02ecf02286b2d55ac5",
+    "wof:geomhash":"43a224c09c2c0efe40164fab0778e4fe",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -144,7 +153,7 @@
         }
     ],
     "wof:id":1108759739,
-    "wof:lastmodified":1636497599,
+    "wof:lastmodified":1694498103,
     "wof:name":"Ali Sabieh",
     "wof:parent_id":85670467,
     "wof:placetype":"county",

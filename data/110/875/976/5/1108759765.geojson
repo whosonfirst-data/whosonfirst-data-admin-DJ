@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.170005,
-    "geom:area_square_m":2054437170.658899,
+    "geom:area_square_m":2054437170.658968,
     "geom:bbox":"42.2128058521,11.8806149659,42.710706707,12.526912",
     "geom:latitude":12.228182,
     "geom:longitude":42.463842,
     "iso:country":"DJ",
+    "label:eng_x_preferred_longname":[
+        "Dorra District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":12.231076,
     "lbl:longitude":42.463873,
     "lbl:max_zoom":10.0,
@@ -37,6 +43,9 @@
         "Dorra"
     ],
     "name:deu_x_preferred":[
+        "Dorra"
+    ],
+    "name:eng_x_preferred":[
         "Dorra"
     ],
     "name:fas_x_preferred":[
@@ -77,7 +86,7 @@
     "wof:concordances":{},
     "wof:country":"DJ",
     "wof:created":1481329069,
-    "wof:geomhash":"68059e58d21f2878351ab23574e74ca2",
+    "wof:geomhash":"481e3878cbaec6b13d0ffcd7cf3f14f9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -87,7 +96,7 @@
         }
     ],
     "wof:id":1108759765,
-    "wof:lastmodified":1566721455,
+    "wof:lastmodified":1694497844,
     "wof:name":"Dorra",
     "wof:parent_id":85670491,
     "wof:placetype":"county",
