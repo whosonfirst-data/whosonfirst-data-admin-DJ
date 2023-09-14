@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.238109,
-    "geom:area_square_m":2878041112.422696,
+    "geom:area_square_m":2878041110.709544,
     "geom:bbox":"42.814288,11.82943,43.444527,12.520479",
     "geom:latitude":12.174162,
     "geom:longitude":43.150114,
     "iso:country":"DJ",
+    "label:eng_x_preferred_longname":[
+        "Obock District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":12.170005,
     "lbl:longitude":43.154514,
     "lbl:max_zoom":10.0,
@@ -59,6 +65,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039f\u03bc\u03c0\u03cc\u03ba"
+    ],
+    "name:eng_x_preferred":[
+        "Obock"
     ],
     "name:est_x_preferred":[
         "Obock"
@@ -143,7 +152,7 @@
     "wof:concordances":{},
     "wof:country":"DJ",
     "wof:created":1481329066,
-    "wof:geomhash":"043b0d3b830ca1e56ce101598ee63a4d",
+    "wof:geomhash":"24a3378eea700a890204ed608a643b22",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -153,7 +162,7 @@
         }
     ],
     "wof:id":1108759759,
-    "wof:lastmodified":1636497600,
+    "wof:lastmodified":1694498103,
     "wof:name":"Obock",
     "wof:parent_id":85670485,
     "wof:placetype":"county",

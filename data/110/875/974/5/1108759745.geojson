@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049041,
-    "geom:area_square_m":594245754.795174,
+    "geom:area_square_m":594245754.795155,
     "geom:bbox":"42.7567906852,11.3676654964,43.259082897,11.601222038",
     "geom:latitude":11.49112,
     "geom:longitude":42.99578,
     "iso:country":"DJ",
+    "label:eng_x_preferred_longname":[
+        "Djibouti District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.502935,
     "lbl:longitude":42.895005,
     "lbl:max_zoom":10.0,
@@ -149,6 +155,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03b6\u03b9\u03bc\u03c0\u03bf\u03c5\u03c4\u03af"
+    ],
+    "name:eng_x_preferred":[
+        "Djibouti"
     ],
     "name:epo_x_preferred":[
         "\u011cibutio"
@@ -638,7 +647,7 @@
     "wof:concordances":{},
     "wof:country":"DJ",
     "wof:created":1481329058,
-    "wof:geomhash":"1a1b0aa0a3d7077bfce9037357657199",
+    "wof:geomhash":"1078c0db27242c4ac9f7b02b9aeaae84",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -648,7 +657,7 @@
         }
     ],
     "wof:id":1108759745,
-    "wof:lastmodified":1566721455,
+    "wof:lastmodified":1694497844,
     "wof:name":"Djibouti",
     "wof:parent_id":85670477,
     "wof:placetype":"county",
