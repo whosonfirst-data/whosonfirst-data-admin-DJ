@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.555861,
-    "geom:area_square_m":6738489670.951048,
+    "geom:area_square_m":6738489368.915375,
     "geom:bbox":"41.759722,10.931944,42.668394,11.935271",
     "geom:latitude":11.365103,
     "geom:longitude":42.136536,
@@ -297,17 +297,19 @@
         "gn:id":223889,
         "gp:id":2345157,
         "hasc:id":"DJ.DK",
+        "iso:code":"DJ-DI",
         "iso:id":"DJ-DI",
         "qs_pg:id":219539,
         "unlc:id":"DJ-DI",
         "wd:id":"Q283979",
         "wk:page":"Dikhil Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DJ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cff49b0b9045e0957aacbf22e5cb5e8c",
+    "wof:geomhash":"51186ba1ab67eed673985058df159dac",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -324,7 +326,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690874640,
+    "wof:lastmodified":1695884856,
     "wof:name":"Dikhil",
     "wof:parent_id":85632319,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.133594,
-    "geom:area_square_m":1618983483.509211,
+    "geom:area_square_m":1618984451.317969,
     "geom:bbox":"42.368204,11.273965,43.259083,11.648105",
     "geom:latitude":11.459694,
     "geom:longitude":42.732838,
@@ -331,15 +331,17 @@
         "gn:id":449265,
         "gp:id":1310928,
         "hasc:id":"DJ.AR",
+        "iso:code":"DJ-AR",
         "iso:id":"DJ-AR",
         "unlc:id":"DJ-AR",
         "wd:id":"Q705941"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DJ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fe32ee55f43cd4bd5bbd288b2a93bf51",
+    "wof:geomhash":"e4744c31e031ebe014aa04dac784df0c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -356,7 +358,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690874640,
+    "wof:lastmodified":1695884504,
     "wof:name":"Arta",
     "wof:parent_id":85632319,
     "wof:placetype":"region",

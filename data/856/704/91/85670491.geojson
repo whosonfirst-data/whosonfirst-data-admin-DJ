@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.541841,
-    "geom:area_square_m":6553387065.359782,
+    "geom:area_square_m":6553386536.494567,
     "geom:bbox":"42.031125,11.551278,43.071538,12.526912",
     "geom:latitude":12.005143,
     "geom:longitude":42.531936,
@@ -300,16 +300,18 @@
         "gn:id":220781,
         "gp:id":2345160,
         "hasc:id":"DJ.TA",
+        "iso:code":"DJ-TA",
         "iso:id":"DJ-TA",
         "qs_pg:id":900665,
         "unlc:id":"DJ-TA",
         "wd:id":"Q645896"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DJ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6deb841c139a7acf96b840f496140c1d",
+    "wof:geomhash":"40127deba1a0447e66d208f9da6953e6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -326,7 +328,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690874639,
+    "wof:lastmodified":1695884856,
     "wof:name":"Tadjourah",
     "wof:parent_id":85632319,
     "wof:placetype":"region",

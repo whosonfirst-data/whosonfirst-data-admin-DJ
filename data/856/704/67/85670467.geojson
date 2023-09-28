@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.175796,
-    "geom:area_square_m":2132048897.984635,
+    "geom:area_square_m":2132048897.984759,
     "geom:bbox":"42.659534,10.981667,43.200116,11.492556",
     "geom:latitude":11.241005,
     "geom:longitude":42.907204,
@@ -356,11 +356,13 @@
         "gn:id":225282,
         "gp:id":2345156,
         "hasc:id":"DJ.AS",
+        "iso:code":"DJ-AS",
         "iso:id":"DJ-AS",
         "qs_pg:id":922446,
         "unlc:id":"DJ-AS",
         "wd:id":"Q821008"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         1108759739
     ],
@@ -368,7 +370,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1610a86dec725f02ecf02286b2d55ac5",
+    "wof:geomhash":"43a224c09c2c0efe40164fab0778e4fe",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -385,7 +387,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690874639,
+    "wof:lastmodified":1695884856,
     "wof:name":"Ali Sabieh",
     "wof:parent_id":85632319,
     "wof:placetype":"region",
