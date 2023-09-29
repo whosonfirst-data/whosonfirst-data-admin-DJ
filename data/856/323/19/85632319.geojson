@@ -1191,6 +1191,7 @@
         "hasc:id":"DJ",
         "icao:code":"J2",
         "ioc:id":"DJI",
+        "iso:code":"DJ",
         "itu:id":"DJI",
         "m49:code":"262",
         "marc:id":"ft",
@@ -1204,6 +1205,7 @@
         "wk:page":"Djibouti",
         "wmo:id":"DJ"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"DJ",
     "wof:country_alpha3":"DJI",
     "wof:geom_alt":[
@@ -1227,7 +1229,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1694639578,
+    "wof:lastmodified":1695881238,
     "wof:name":"Djibouti",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

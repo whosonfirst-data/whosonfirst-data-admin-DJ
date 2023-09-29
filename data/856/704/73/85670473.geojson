@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017227,
-    "geom:area_square_m":208697056.530409,
+    "geom:area_square_m":208697056.530444,
     "geom:bbox":"42.891224,11.51878,43.216194,11.733778",
     "geom:latitude":11.565241,
     "geom:longitude":43.045724,
@@ -558,10 +558,12 @@
         "gn:id":223818,
         "gp:id":2345158,
         "hasc:id":"DJ.DB",
+        "iso:code":"DJ-DJ",
         "iso:id":"DJ-DJ",
         "qs_pg:id":453291,
         "wd:id":"Q3604"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         1108759755
     ],
@@ -569,7 +571,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b2575e4610d1010cf44e675c80ec6019",
+    "wof:geomhash":"62d41c7840ee6a9cde268f846e11a338",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -586,7 +588,7 @@
         "ara",
         "fra"
     ],
-    "wof:lastmodified":1690874639,
+    "wof:lastmodified":1695884504,
     "wof:name":"Djibouti",
     "wof:parent_id":85632319,
     "wof:placetype":"region",
